@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : LINODE MYSQL
- Source Server Type    : MySQL
- Source Server Version : 50723
- Source Host           : 45.33.4.239:3306
- Source Schema         : test
-
- Target Server Type    : MySQL
- Target Server Version : 50723
- File Encoding         : 65001
-
- Date: 06/04/2019 09:59:26
-*/
-
 CREATE database test;
 
 USE test; 
