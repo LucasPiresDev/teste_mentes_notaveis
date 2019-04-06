@@ -1,3 +1,6 @@
+ # Linguagem
+ - PHP 7.1
+ 
 # teste_thejobs
  - Projeto desenvolvido para teste.
  
@@ -14,8 +17,6 @@
  - porta à sua escolha
  - servidor deverá suportar PHP 7.1 e PDO_MYSQL
  
- # Linguagem
- - PHP 7.1
  
  # Autor
  - Lucas Pires
